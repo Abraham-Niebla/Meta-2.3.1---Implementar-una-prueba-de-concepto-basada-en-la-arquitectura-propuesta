@@ -1,7 +1,7 @@
 # Descripción
 Este proyecto es una aplicación web de gestión de alertas desarrollada con Vue.js y Vuetify. Permite a los usuarios crear, editar, y eliminar alertas con diferentes medios de notificación. La aplicación presenta una tabla dinámica que se adapta al tamaño de la pantalla, permitiendo gestionar de manera eficiente un número grande de alertas.
 
-# Diagramas de la Arquitectura
+# Diagrama de la Arquitectura
 A continuación se muestra un diagrama de la arquitectura de la aplicación:
 
 ![Vista del Deployment del sistema](Deployment.png)
