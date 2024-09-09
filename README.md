@@ -81,3 +81,5 @@ Para visualizar la página será nesesario acceder a través de un navegador al 
 # Considerariones
 Este repositorio solo cuenta con una demo del sistema, dicha demo solo es el Frontend o Interfaz Web de lo que sería el sistema.
 Esta demo se ha creado con el fin de dar una primera proyección de la idea del sistema y, de ser aceptado, integrar posteriormente el Backend o Servidor de Aplicaciones para el funcionamiento del sistema.
+
+En el repositorio solo se muestran los archivos necesarios, es decir, los que pueden cambiar y son importantes para el proyecto. El resto de archivos para ejecutar la aplicación web se pueden obtener siguiendo los pasos en la sección **"Instrucciones para Ejecutar el Programa Localmente"**
