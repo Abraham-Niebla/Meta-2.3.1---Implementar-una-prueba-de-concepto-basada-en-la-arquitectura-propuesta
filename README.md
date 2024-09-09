@@ -43,27 +43,33 @@ Antes de ejecutar la aplicación de manera local, asegúrate de tener los siguie
 
 -Vue CLI: Instalado globalmente.
 
-# Para instalar Vue CLI globalmente, ejecuta:
+-Para instalar Vue CLI globalmente, ejecuta:
+
 `npm install -g @vue/cli`
 
 
 # Instrucciones para Ejecutar el Programa Localmente
 1. Clona el repositorio en tu máquina local usando el siguiente comando:
-`git clone https://github.com/tuusuario/nombre-del-repositorio.git`
+
+`git clone https://github.com/[tuusuario]/[nombre-del-repositorio].git`
 
 2. Navega al directorio del proyecto y ejecuta el siguiente comando para instalar todas las dependencias necesarias:
+
 `cd nombre-del-repositorio`
 
 `npm install`
 
 3. Una vez que las dependencias estén instaladas, ejecuta la aplicación en modo de desarrollo con el siguiente comando:
+
 `npm run dev`
 
 Si quieres que la página sea visible en toda la red, ejecuta el siguiente comando:
+
 `npm run dev -- --host`
 
 4. Si deseas compilar el proyecto para producción, ejecuta:
-`Si deseas compilar el proyecto para producción, ejecuta:`
+
+`npm run build`
 
 
 # Considerariones
