@@ -53,19 +53,25 @@ Antes de ejecutar la aplicación de manera local, asegúrate de tener los siguie
 
 `git clone https://github.com/[tuusuario]/[nombre-del-repositorio].git`
 
-2. Navega al directorio del proyecto y ejecuta el siguiente comando para instalar todas las dependencias necesarias:
+2. Navega al directorio del proyecto y ejecuta el siguiente comando para inicializar un nuevo proyecto:
 
-`cd nombre-del-repositorio`
+`cd [nombre-del-repositorio]`
 
-`npm install`
+`npm init`
 
-3. Una vez que las dependencias estén instaladas, ejecuta la aplicación en modo de desarrollo con el siguiente comando:
+3. Una vez que se ha creado el proyecto y las dependencias estén instaladas, ejecuta la aplicación en modo de desarrollo con el siguiente comando:
 
 `npm run dev`
 
 Si quieres que la página sea visible en toda la red, ejecuta el siguiente comando:
 
 `npm run dev -- --host`
+
+Para visualizar la página será nesesario acceder a través de un navegador al puerto **3000** del dispositivo en el que se ejecute el programa:
+
+`localhost:3000` - En el caso de abrir la página en el misms dispositivo en la que se ejecuta el código
+
+`[IP de la computadora que ejecuta el codigo]:3000` - En el caso de abrir la página en un dispositivo diferente en el que se ejecuta el código
 
 4. Si deseas compilar el proyecto para producción, ejecuta:
 
