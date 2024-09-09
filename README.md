@@ -69,7 +69,7 @@ Si quieres que la página sea visible en toda la red, ejecuta el siguiente coman
 
 Para visualizar la página será nesesario acceder a través de un navegador al puerto **3000** del dispositivo en el que se ejecute el programa:
 
-`localhost:3000` - En el caso de abrir la página en el misms dispositivo en la que se ejecuta el código
+`localhost:3000` - En el caso de abrir la página en el mismo dispositivo en la que se ejecuta el código
 
 `[IP de la computadora que ejecuta el codigo]:3000` - En el caso de abrir la página en un dispositivo diferente en el que se ejecuta el código
 
